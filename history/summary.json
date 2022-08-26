@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/freaklab.org",
     "slug": "freak-lab-site",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 1521,
-    "timeDay": 1354,
-    "timeWeek": 1519,
-    "timeMonth": 1531,
+    "timeDay": 0,
+    "timeWeek": 1492,
+    "timeMonth": 1526,
     "timeYear": 1521,
     "dailyMinutesDown": {
       "2022-06-24": 22
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 312,
-    "timeDay": 140,
-    "timeWeek": 242,
-    "timeMonth": 330,
+    "timeDay": 0,
+    "timeWeek": 235,
+    "timeMonth": 331,
     "timeYear": 312,
     "dailyMinutesDown": {}
   }
