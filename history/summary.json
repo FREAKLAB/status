@@ -2,7 +2,7 @@
   {
     "name": "FREAK Lab site",
     "url": "https://freaklab.org",
-    "icon": "https://favicons.githubusercontent.com/freaklab.org",
+    "icon": "https://icons.duckduckgo.com/ip3/freaklab.org.ico",
     "slug": "freak-lab-site",
     "status": "up",
     "uptime": "99.98%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1550,
-    "timeDay": 1579,
-    "timeWeek": 1707,
-    "timeMonth": 1609,
-    "timeYear": 1550,
+    "time": 1552,
+    "timeDay": 1695,
+    "timeWeek": 1776,
+    "timeMonth": 1625,
+    "timeYear": 1552,
     "dailyMinutesDown": {
       "2022-06-24": 22
     }
@@ -22,7 +22,7 @@
   {
     "name": "FREAK Lab FB Page",
     "url": "https://www.facebook.com/FreakLaboratory",
-    "icon": "https://favicons.githubusercontent.com/www.facebook.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.facebook.com.ico",
     "slug": "freak-lab-fb-page",
     "status": "up",
     "uptime": "100.00%",
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 322,
-    "timeDay": 250,
-    "timeWeek": 279,
-    "timeMonth": 359,
-    "timeYear": 322,
+    "time": 326,
+    "timeDay": 698,
+    "timeWeek": 343,
+    "timeMonth": 375,
+    "timeYear": 326,
     "dailyMinutesDown": {}
   }
 ]
