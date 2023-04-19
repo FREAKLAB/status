@@ -24,7 +24,7 @@
     "url": "https://www.facebook.com/FreakLaboratory",
     "icon": "https://icons.duckduckgo.com/ip3/www.facebook.com.ico",
     "slug": "freak-lab-fb-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,6 +35,8 @@
     "timeWeek": 536,
     "timeMonth": 357,
     "timeYear": 350,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-19": 0
+    }
   }
 ]
