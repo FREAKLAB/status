@@ -4,7 +4,7 @@
     "url": "https://freaklab.org",
     "icon": "https://icons.duckduckgo.com/ip3/freaklab.org.ico",
     "slug": "freak-lab-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "86.49%",
@@ -16,6 +16,7 @@
     "timeMonth": 1818,
     "timeYear": 1586,
     "dailyMinutesDown": {
+      "2023-12-27": 0,
       "2023-12-24": 922,
       "2023-12-23": 439,
       "2023-05-21": 153
