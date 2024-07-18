@@ -1,7 +1,7 @@
 url: https://freaklab.org
-status: up
-code: 200
-responseTime: 2455
-lastUpdated: 2024-07-17T23:08:29.002Z
+status: down
+code: 500
+responseTime: 1437
+lastUpdated: 2024-07-18T10:27:02.147Z
 startTime: 2022-06-24T04:39:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
