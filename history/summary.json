@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2745,
-    "timeDay": 2760,
-    "timeWeek": 2614,
-    "timeMonth": 2587,
-    "timeYear": 2671,
-    "dailyMinutesDown": {
-      "2024-07-19": 15
-    }
+    "timeDay": 2626,
+    "timeWeek": 2656,
+    "timeMonth": 2585,
+    "timeYear": 2674,
+    "dailyMinutesDown": {}
   },
   {
     "name": "FREAK Lab FB Page",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 490,
-    "timeDay": 414,
-    "timeWeek": 478,
-    "timeMonth": 584,
+    "timeDay": 379,
+    "timeWeek": 420,
+    "timeMonth": 585,
     "timeYear": 503,
     "dailyMinutesDown": {}
   }
