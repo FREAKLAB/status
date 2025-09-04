@@ -6,17 +6,17 @@
     "slug": "freak-lab-site",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "98.05%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.99%",
-    "time": 2760,
-    "timeDay": 2719,
-    "timeWeek": 2648,
-    "timeMonth": 2580,
-    "timeYear": 2662,
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "100.00%",
+    "time": 2761,
+    "timeDay": 2724,
+    "timeWeek": 2691,
+    "timeMonth": 2588,
+    "timeYear": 2663,
     "dailyMinutesDown": {
-      "2025-09-03": 28
+      "2025-09-03": 22
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 510,
-    "timeDay": 278,
-    "timeWeek": 425,
-    "timeMonth": 638,
-    "timeYear": 518,
+    "time": 513,
+    "timeDay": 2163,
+    "timeWeek": 658,
+    "timeMonth": 698,
+    "timeYear": 523,
     "dailyMinutesDown": {
       "2025-08-29": 15
     }
