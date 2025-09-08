@@ -10,11 +10,11 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 2761,
-    "timeDay": 2814,
-    "timeWeek": 2676,
-    "timeMonth": 2598,
-    "timeYear": 2664,
+    "time": 2762,
+    "timeDay": 3181,
+    "timeWeek": 2739,
+    "timeMonth": 2613,
+    "timeYear": 2665,
     "dailyMinutesDown": {
       "2025-09-03": 22
     }
@@ -24,18 +24,19 @@
     "url": "https://www.facebook.com/FreakLaboratory",
     "icon": "https://icons.duckduckgo.com/ip3/www.facebook.com.ico",
     "slug": "freak-lab-fb-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.97%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 516,
-    "timeDay": 1296,
-    "timeWeek": 787,
+    "timeDay": 368,
+    "timeWeek": 789,
     "timeMonth": 669,
     "timeYear": 523,
     "dailyMinutesDown": {
+      "2025-09-08": 0,
       "2025-08-29": 15
     }
   }
