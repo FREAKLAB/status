@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 2756,
-    "timeDay": 2997,
-    "timeWeek": 3267,
-    "timeMonth": 2781,
+    "time": 2757,
+    "timeDay": 2688,
+    "timeWeek": 3310,
+    "timeMonth": 2790,
     "timeYear": 2681,
     "dailyMinutesDown": {
       "2025-09-03": 22
@@ -26,17 +26,16 @@
     "slug": "freak-lab-fb-page",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 516,
-    "timeDay": 563,
-    "timeWeek": 431,
-    "timeMonth": 507,
-    "timeYear": 523,
+    "time": 515,
+    "timeDay": 651,
+    "timeWeek": 448,
+    "timeMonth": 500,
+    "timeYear": 522,
     "dailyMinutesDown": {
-      "2025-09-26": 7,
       "2025-08-29": 15
     }
   }
