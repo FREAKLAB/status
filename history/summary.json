@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/freaklab.org.ico",
     "slug": "freak-lab-site",
     "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "65.53%",
-    "uptimeWeek": "78.97%",
-    "uptimeMonth": "78.80%",
-    "uptimeYear": "98.07%",
-    "time": 2485,
+    "uptime": "99.43%",
+    "uptimeDay": "59.21%",
+    "uptimeWeek": "78.80%",
+    "uptimeMonth": "78.60%",
+    "uptimeYear": "98.06%",
+    "time": 2483,
     "timeDay": 1628,
-    "timeWeek": 1880,
-    "timeMonth": 1965,
-    "timeYear": 2426,
+    "timeWeek": 1863,
+    "timeMonth": 1960,
+    "timeYear": 2423,
     "dailyMinutesDown": {
       "2025-09-03": 22,
       "2025-11-11": 19,
@@ -46,7 +46,8 @@
       "2026-06-22": 398,
       "2026-06-24": 165,
       "2026-06-26": 527,
-      "2026-06-27": 496
+      "2026-06-27": 496,
+      "2026-06-28": 91
     }
   },
   {
