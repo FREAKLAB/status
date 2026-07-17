@@ -4,17 +4,17 @@
     "url": "https://freaklab.org",
     "icon": "https://icons.duckduckgo.com/ip3/freaklab.org.ico",
     "slug": "freak-lab-site",
-    "status": "down",
+    "status": "up",
     "uptime": "99.33%",
-    "uptimeDay": "93.99%",
-    "uptimeWeek": "90.11%",
-    "uptimeMonth": "83.72%",
-    "uptimeYear": "97.31%",
+    "uptimeDay": "91.62%",
+    "uptimeWeek": "89.77%",
+    "uptimeMonth": "83.64%",
+    "uptimeYear": "97.30%",
     "time": 2393,
-    "timeDay": 1765,
-    "timeWeek": 1750,
-    "timeMonth": 1786,
-    "timeYear": 2309,
+    "timeDay": 1859,
+    "timeWeek": 1766,
+    "timeMonth": 1790,
+    "timeYear": 2308,
     "dailyMinutesDown": {
       "2025-09-03": 22,
       "2025-11-11": 19,
@@ -63,7 +63,7 @@
       "2026-07-14": 96,
       "2026-07-15": 213,
       "2026-07-16": 204,
-      "2026-07-17": 87
+      "2026-07-17": 121
     }
   },
   {
@@ -78,9 +78,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 560,
-    "timeDay": 1024,
-    "timeWeek": 585,
-    "timeMonth": 544,
+    "timeDay": 709,
+    "timeWeek": 561,
+    "timeMonth": 539,
     "timeYear": 553,
     "dailyMinutesDown": {
       "2025-08-29": 15,
